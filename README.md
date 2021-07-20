@@ -12,7 +12,7 @@ HYG - High Yield Bonds
 CVX - Chevron
 TLT - 20 + year Treasury Bonds
 
-This project finds the performance, expected return, and risk of each asset over the past year.
+This project finds the performance, expected return, and risk of each asset over the past year. I also find how correlated the assets are with eachother.
 Towards the end we find out the optimal portfolio when taking into account all the information above. 
 
 I attached the plots in PDF format and the outputs in the outputs section.
