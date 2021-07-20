@@ -2,7 +2,7 @@
 
 This project focuses on WTI crude oil. Crude oil is the most important commodity in the world and is a barometer for how the economy is doing.
 
-I chose to analyze assets that typically are sensitive to the economic cycle and specifically crude oil.
+I chose to analyze assets that are typically sensitive to the economic cycle and specifically crude oil.
 
 The symbols are as follows:
 
