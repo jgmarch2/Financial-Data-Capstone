@@ -4,6 +4,8 @@ This project focuses on WTI crude oil. Crude oil is the most important commodity
 
 I chose to analyze assets that are typically sensitive to the economic cycle and specifically crude oil.
 
+First Code: Financial_Data_Capstone.py
+
 The symbols are as follows:
 
 XOM - ExxonMobil
@@ -22,6 +24,8 @@ Towards the end we find out the optimal portfolio when taking into account all t
 I attached the plots in PDF format and the outputs in the outputs section.
 
 My second analysis is more focused on Cross-asset relationships. The idea of this analysis is to find the assets that are most strongly influneced by moves in crude oil.
+
+Second Code: Crude Oil Correlations.py
 
 The symbols are as follows:
 
