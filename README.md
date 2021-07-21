@@ -39,3 +39,4 @@ This project finds the same statistics in the analysis above except I add in the
 
 Towards the end we find the regression line between each of the assets and Crude Oil. This shows the amount of variation in Crude Oil that accounts for the amount of variation in the other asset. There is a regression using prices and returns to show how much they can differ.
 
+The PDF's with the underscore oil at the end represent the charts from the Crude Oil Correlation code.
